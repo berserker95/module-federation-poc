@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.mfe-container {
+  width: 800px;
+  height: 500px;
+}
+
+.mfe {
+  width: 400px;
+  height: 400px;
+}
